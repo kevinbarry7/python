@@ -1,6 +1,8 @@
-from sys import argv
+import sys
+print(sys.version)
 
 print("Today is Wednesday")
+a, b, c = 1
 
 
 def swapList(newList):
@@ -17,5 +19,3 @@ print(swapList(newList))
 print("today is not Thursday")
 
 # this is a comment
-
-
