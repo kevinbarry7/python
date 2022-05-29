@@ -1,4 +1,5 @@
 import sys
+print(sys.version)
 
 print("Today is Wednesday")
 a, b, c = 1
@@ -17,4 +18,4 @@ newList = [12, 35, 9, 56, 24]
 print(swapList(newList))
 print("today is not Thursday")
 
-# this is a commment
+# this is a comment
